@@ -15,7 +15,7 @@ Este repositorio contiene scripts en Python que utilizan **OpenCV** y **Mediapip
 ## Instalación y Configuración
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tu_usuario/deteccion_ocular.git
+git clone https://github.com/JuanManuel1970/deteccion_ocular.git
 cd deteccion_ocular
 ```
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ---
 
 ## Dependencias
-Las librerías necesarias:
+El archivo `requirements.txt` contiene todas las librerías necesarias. Entre ellas:
 - `opencv-python`
 - `mediapipe`
 - `numpy`
@@ -68,7 +68,8 @@ Las librerías necesarias:
 Este proyecto se distribuye bajo la licencia **MIT**.
 
 ## Autor
-📌 Desarrollado por [Juan Manuel](https://github.com/JuanManuel1970)
+📌 Desarrollado por [Juan MAnuel](https://github.com/JuanMAnuel1970)
 
 ¡Contribuciones y mejoras son bienvenidas! 🚀
+
 
