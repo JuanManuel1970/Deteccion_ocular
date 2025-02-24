@@ -68,7 +68,7 @@ El archivo `requirements.txt` contiene todas las librerías necesarias. Entre el
 Este proyecto se distribuye bajo la licencia **MIT**.
 
 ## Autor
-📌 Desarrollado por [Juan MAnuel](https://github.com/JuanMAnuel1970)
+📌 Desarrollado por [Juan Manuel](https://github.com/JuanManuel1970)
 
 ¡Contribuciones y mejoras son bienvenidas! 🚀
 
