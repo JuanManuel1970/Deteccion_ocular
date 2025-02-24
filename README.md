@@ -68,7 +68,7 @@ Las librerías necesarias:
 Este proyecto se distribuye bajo la licencia **MIT**.
 
 ## Autor
-📌 Desarrollado por [Tu Nombre](https://github.com/JuanManuel1970)
+📌 Desarrollado por [Juan Manuel](https://github.com/JuanManuel1970)
 
 ¡Contribuciones y mejoras son bienvenidas! 🚀
 
